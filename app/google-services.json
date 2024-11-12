@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "846239711000",
+    "project_id": "vehiclecare-app",
+    "storage_bucket": "vehiclecare-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846239711000:android:44a147d8328a220cfda86d",
+        "android_client_info": {
+          "package_name": "com.example.vehiclecareapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaa1E64y-OdZquNnahtGxcNSNzYXVyiAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
